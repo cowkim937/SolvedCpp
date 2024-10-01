@@ -1,0 +1,10 @@
+# Blacklist
+*.bin
+*.exe
+._*
+*.cpp_*
+
+# BlackList Folder
+Platinium/
+Diamond/
+Ruby/
